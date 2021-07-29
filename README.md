@@ -1,4 +1,4 @@
-#Git Tutorial
+# Git Tutorial
 This is an example repository for the Git tutorial on https://wubishet.com. 
 
 Push Local Repository to GitHub
